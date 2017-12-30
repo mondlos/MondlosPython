@@ -9,3 +9,4 @@ def gFloat(num, p=2):
 def addDecimal(num):
     d = str(num)
     return d[0]+"."+d[1:len(d)]
+ 
